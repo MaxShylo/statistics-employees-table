@@ -1,6 +1,6 @@
 # JS employees table project
 
-Developed a statistics employees table
+Developed a statistics employees table with validation, adder, sorting, additing functionality.
 
 Technologies: HTML/CSS/SCSS/BEM/JavaScript
 
